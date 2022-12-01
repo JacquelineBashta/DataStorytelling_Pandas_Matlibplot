@@ -14,7 +14,6 @@ direction LR
       orders  : +Date created_date  
       orders  : +int total_paid  
       orders  : +cat state  
-      orders  : +String gender
       class orderlines{
           +int id   
           +int id_order
