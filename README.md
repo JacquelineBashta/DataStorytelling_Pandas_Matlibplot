@@ -1,6 +1,10 @@
 # Pandas_Eniac
 Solving some Business Questions using group of CSV files (as DB), and analyzing them via Pandas
 
+## Final Presentation
+https://docs.google.com/presentation/d/1L-pqGxwOni5FiOqIX_ez6UMVD2JzlMegLc5AkUSoXDs/edit#slide=id.g1b4a90cfde4_0_472
+
+
 
 ## CSV Structure
 
